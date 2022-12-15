@@ -9,10 +9,3 @@ I like to create and contribute to open source projects. That helps me to learn 
     Redux Toolkit
     CSS / SCSS / material ui
     Html
-
-More info
-
-    🌱 I’m currently learning NextJS, I believe that everyday is a learning opportunity.
-    📫 How to reach me: benmerabetayoub95@gmail.com
-    💬 Ask me about Html5, CSS3, JavaScript, React, Redux, NextJS, material ui, Bootstrap, Ajax, JSON
-
