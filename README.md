@@ -20,3 +20,5 @@ More info
 Skills
 
 My Skills
+
+ babel c css3 express figma firebase git heroku html5 javascript jest matlab mongodb mysql nextjs nodejs photoshop pug react redux sass typescript webpack 
