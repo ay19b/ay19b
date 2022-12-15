@@ -16,9 +16,3 @@ More info
     📫 How to reach me: benmerabetayoub95@gmail.com
     💬 Ask me about Html5, CSS3, JavaScript, React, Redux, NextJS, material ui, Bootstrap, Ajax, JSON
 
-
-Skills
-
-My Skills
-
- babel c css3 express figma firebase git heroku html5 javascript jest matlab mongodb mysql nextjs nodejs photoshop pug react redux sass typescript webpack 
