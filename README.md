@@ -9,6 +9,7 @@ My preferred weapons of choice: 👇
     NextJS / ReactJS
     Redux Toolkit
     CSS / SCSS / material ui
+    Html
 
 More info
 
