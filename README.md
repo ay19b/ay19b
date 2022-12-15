@@ -1,16 +1,22 @@
-### Hi there 👋
+Hi there 👋, Greetings from Benmerabet Ayoub
 
-<!--
-**ay19b/ay19b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front-End Developer. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️.
 
-Here are some ideas to get you started:
+I like to create and contribute to open source projects. That helps me to learn a ton of new stuff, grow as a developer and support other open source projects. Also I enjoy writing technical things ✍️ at my blog and medium.
+My preferred weapons of choice: 👇
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    JavaScript 
+    NextJS / ReactJS
+    Redux Toolkit
+    CSS / SCSS / material ui
+
+More info
+
+    🌱 I’m currently learning NextJS, I believe that everyday is a learning opportunity.
+    📫 How to reach me: benmerabetayoub95@gmail.com
+    💬 Ask me about Html5, CSS3, JavaScript, React, Redux, NextJS, material ui, Bootstrap, Ajax, JSON
+
+
+Skills
+
+My Skills
