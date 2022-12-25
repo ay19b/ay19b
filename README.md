@@ -6,7 +6,7 @@ I like to create and contribute to open source projects. That helps me to learn 
  
     NextJS / ReactJS
     Redux Toolkit
-    CSS / SCSS / material ui
+    CSS / Sass / material ui
     Html / JavaScript 
 
 
