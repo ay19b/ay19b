@@ -11,6 +11,6 @@ My preferred weapons of choice: 👇
 
 
 
-📫 How to reach me:   Benmerabetayoub95gmail.com
+📫 How to reach me:   Benmerabetayoub95@gmail.com
 
 [View resume](https://drive.google.com/file/d/1ke_dCWW5cRHBStMzVmmWgIGLWYI3cxfQ/view?usp=sharing)
